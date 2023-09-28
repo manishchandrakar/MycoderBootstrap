@@ -37,6 +37,6 @@ You can view a live preview of the project [here](https://manishchandrakar.githu
 
 If you have any questions or would like to connect, feel free to reach out:
 
-- **Name**: [Your Name]
-- **LinkedIn**: [Manish Chandrakar](https://www.linkedin.com/in/manish-chandrakar-23392b183/))
+- **Name**: [Manish Chandrakar]
+- **LinkedIn**: [Manish Chandrakar](https://www.linkedin.com/in/manish-chandrakar-23392b183/)
 - **Email**: [manishchandrakar2001@gmail.com](mailto:manishchandrakar2001@gmail.com)
