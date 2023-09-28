@@ -32,14 +32,6 @@ The project includes responsive web pages designed with Bootstrap, making it sui
 
 You can view a live preview of the project [here](https://manishchandrakar.github.io/MycoderBootstrap/index.html).
 
-## Contact Information
-
-If you have any questions or would like to connect, feel free to reach out:
-
-- **Name**: [Your Name]
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **Email**: [Your Email Address](mailto:your.email@example.com)
-).
 
 ## Contact Information
 
